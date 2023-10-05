@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "463558689271",
+    "project_id": "virtual-run-7b75d",
+    "storage_bucket": "virtual-run-7b75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463558689271:android:76c38b291bfa3746366ef2",
+        "android_client_info": {
+          "package_name": "com.besheger.authcoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463558689271-a83mrv6d692o3ghg60vp50abt5c6125e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.besheger.authcoll",
+            "certificate_hash": "46bb8918a65ea1630f535234bf8a9d1dd0d0117d"
+          }
+        },
+        {
+          "client_id": "463558689271-bplo6e2cfcng4pvr7nhv5pgq4pvv8a78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAH9ODNfMG5uMREvVPjn6Hc63YQqbO2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463558689271-8rklh4a2ohp5omv2h3jm1c8ttutfhcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463558689271-gi1bos47d6m59crb95fae5sollicj6jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hira.coopay.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463558689271:android:3a6eb5b12d91bad3366ef2",
+        "android_client_info": {
+          "package_name": "com.example.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463558689271-bplo6e2cfcng4pvr7nhv5pgq4pvv8a78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAH9ODNfMG5uMREvVPjn6Hc63YQqbO2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463558689271-8rklh4a2ohp5omv2h3jm1c8ttutfhcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463558689271-gi1bos47d6m59crb95fae5sollicj6jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hira.coopay.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463558689271:android:0bfbf012a910f23c366ef2",
+        "android_client_info": {
+          "package_name": "com.hira.coopay.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463558689271-d8kpgcpc1dm2ct9lk902bkh78mgc2keq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hira.coopay.customer",
+            "certificate_hash": "6471def62bb8071d0ca22e3174ca4a0c7b923e33"
+          }
+        },
+        {
+          "client_id": "463558689271-haggafpul9vbqar2efvgropse3j0pr2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hira.coopay.customer",
+            "certificate_hash": "46bb8918a65ea1630f535234bf8a9d1dd0d0117d"
+          }
+        },
+        {
+          "client_id": "463558689271-bplo6e2cfcng4pvr7nhv5pgq4pvv8a78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAH9ODNfMG5uMREvVPjn6Hc63YQqbO2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463558689271-8rklh4a2ohp5omv2h3jm1c8ttutfhcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463558689271-gi1bos47d6m59crb95fae5sollicj6jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hira.coopay.customer"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1315253554881650~8863012787"
+    }
+  ],
+  "configuration_version": "1"
+}
